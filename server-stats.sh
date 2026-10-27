@@ -18,4 +18,3 @@ ps -eo pid,user,%mem,comm --sort=-%mem | head -n 6
 
 
 
-https://roadmap.sh/projects/server-stats

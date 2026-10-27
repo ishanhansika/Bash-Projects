@@ -2,7 +2,7 @@
 
 ## Server Performance Stats
 
-code- server-stats.sh
+[Code](server-stats.sh)
 
 link- https://roadmap.sh/projects/server-stats
 

@@ -9,7 +9,7 @@ fi
 timestamp=$(date +"%Y%m%d_%H%M%S")
 file_name=log_archive_$date
 
-tar -czvf $file_name.tar.gz $1
+tar -czvf "$file_name.tar.gz" "$1"
 
 echo " Done "
   

@@ -10,7 +10,7 @@ link- https://roadmap.sh/projects/server-stats
 
 ## Log Archive Tool
 
-code -log-archive-tool.sh
+[code](log-archive-tool.sh)
 
 link- https://roadmap.sh/projects/log-archive-tool
 

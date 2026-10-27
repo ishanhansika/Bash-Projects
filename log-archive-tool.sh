@@ -7,7 +7,7 @@ then
   exit 1
 fi
 timestamp=$(date +"%Y%m%d_%H%M%S")
-file_name=log_archive_$date
+file_name="log_archive_$timestamp"
 
 tar -czvf "$file_name.tar.gz" "$1"
 
